@@ -1,0 +1,22 @@
+{
+  "name": "opendata",
+  "version": "1.0.0",
+  "description": "The [National Gallery of Art](https://www.nga.gov) serves the United States by welcoming all people to explore and experience art, creativity, and our shared humanity. In pursuing our mission, we are making certain data about our collection available to scholars, educators, and the general public in CSV format to support research, teaching, and personal enrichment; to promote interdisciplinary research; to encourage fun and creativity; and to help people understand the inspiration behind great works of art. We hope that access to this dataset will fuel knowledge, scholarship, and innovation, inspiring uses that transform the way we discover and understand the world of art.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NationalGalleryOfArt/opendata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NationalGalleryOfArt/opendata/issues"
+  },
+  "homepage": "https://github.com/NationalGalleryOfArt/opendata#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
